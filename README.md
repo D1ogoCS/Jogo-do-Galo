@@ -18,3 +18,33 @@ C++
 - Ganhou o O – Caso o jogador O consiga ter preenchido uma linha, coluna ou diagonal
 - Empate – Nenhum dos jogadores ganhou, e o jogo já terminou.
 
+### Resultados:
+
+![Menu](https://github.com/D1ogoCS/Jogo-do-Galo/blob/main/imagens/menu.png)
+
+*Menu*
+
+![Jogo contra o computador](https://github.com/D1ogoCS/Jogo-do-Galo/blob/main/imagens/contraComputador.png)
+
+*Jogo contra o computador*
+
+![Jogo contra o computador](https://github.com/D1ogoCS/Jogo-do-Galo/blob/main/imagens/contraComputador2.png)
+
+*Jogo contra o computador*
+
+![Jogo contra o computador](https://github.com/D1ogoCS/Jogo-do-Galo/blob/main/imagens/contraComputador3.png)
+
+*Jogo contra o computador*
+
+![Empate contra o computador](https://github.com/D1ogoCS/Jogo-do-Galo/blob/main/imagens/empate.png)
+
+*Empate contra o computador*
+
+![Computador ganha](https://github.com/D1ogoCS/Jogo-do-Galo/blob/main/imagens/computadorGanha.png)
+
+*Computador ganha*
+
+![Jogo contra outro jogador](https://github.com/D1ogoCS/Jogo-do-Galo/blob/main/imagens/contraJogador.png)
+
+*Jogo contra outro jogador*
+
