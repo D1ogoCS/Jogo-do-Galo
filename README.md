@@ -4,4 +4,4 @@ O Jogo do Galo é um dos jogos de tabuleiro mais populares e mais antigos. O obj
 ### Objetivos:
 - Criar o jogo do galo com 2 opções: Com 2 jogadores humanos e contra o computador
 - Utilizar a linguagem de programação C++
-- Na opção contra o computador, deve ter um “mínimo de inteligência artificial”, ou seja, quando o jogador humano tiver dois símbolos seguidos, que lhe possam permitir ganhar o jogo, o computador deve bloquear essa opção.
+- Na opção contra o computador, deve ter um “mínimo de inteligência artificial”, ou seja, quando o jogador humano tiver dois símbolos seguidos, que lhe possam permitir ganhar o jogo, o computador deve bloquear essa opção
