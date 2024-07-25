@@ -11,7 +11,7 @@ O Jogo do Galo é um dos jogos de tabuleiro mais populares e mais antigos. O obj
 Visual Studio Code
 
 ### Tecnologias utilizadas:
-C++
+Linguagem C++
 
 ### Exemplos de resultados:
 - Ganhou o X – Caso o jogador X consiga ter preenchido uma linha, coluna ou diagonal
