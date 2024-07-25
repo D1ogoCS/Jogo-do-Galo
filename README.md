@@ -8,10 +8,10 @@ O Jogo do Galo é um dos jogos de tabuleiro mais populares e mais antigos. O obj
 - Na opção contra o computador, deve ter um “mínimo de inteligência artificial”, ou seja, quando o jogador humano tiver dois símbolos seguidos, que lhe possam permitir ganhar o jogo, o computador deve bloquear essa opção
 
 ### Ferramentas utilizadas:
-Visual Studio Code
+- Visual Studio Code
 
 ### Tecnologias utilizadas:
-Linguagem C++
+- Linguagem C++
 
 ### Exemplos de resultados:
 - Ganhou o X – Caso o jogador X consiga ter preenchido uma linha, coluna ou diagonal
