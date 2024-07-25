@@ -1,6 +1,6 @@
 # Jogo do Galo
 ## Desenvolver o jogo do Galo na linguagem de programação C++
-O Jogo do Galo é um dos jogos de tabuleiro mais populares e mais antigos. O objetivo é  concluir com êxito o preenchimento de uma linha ou coluna da matriz com três símbolos  iguais e impedir que o adversário faça o mesmo
+O Jogo do Galo é um dos jogos de tabuleiro mais populares e mais antigos. O objetivo é concluir com êxito o preenchimento de uma linha ou coluna da matriz com três símbolos iguais e impedir que o adversário faça o mesmo
 
 ### Objetivos:
 - Criar o jogo do galo com 2 opções: Com 2 jogadores humanos e contra o computador
@@ -16,7 +16,7 @@ C++
 ### Exemplos de resultados:
 - Ganhou o X – Caso o jogador X consiga ter preenchido uma linha, coluna ou diagonal
 - Ganhou o O – Caso o jogador O consiga ter preenchido uma linha, coluna ou diagonal
-- Empate – Nenhum dos jogadores ganhou, e o jogo já terminou.
+- Empate – Nenhum dos jogadores ganhou, e o jogo já terminou
 
 ### Resultados:
 
